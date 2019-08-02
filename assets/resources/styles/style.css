@@ -6,7 +6,7 @@ body{
 }
 
 nav{
-    background: transparent;
+    background: #F5F5F5;
     box-shadow: none;
 }
 
@@ -32,4 +32,29 @@ nav li a:hover{
     nav div a{
         padding: 10px 15px;
     }
+}
+
+#inicio{
+    background: #6F04D9;
+    height: 800px;
+}
+
+#ajuda{
+    background: #8245BF;
+    height: 800px;
+}
+
+#servicos{
+    background: #6805F2;
+    height: 800px;
+}
+
+#portfolio{
+    background: #05F29B;
+    height: 800px;
+}
+
+#contato{
+    background: #F2CB05;
+    height: 800px;
 }
