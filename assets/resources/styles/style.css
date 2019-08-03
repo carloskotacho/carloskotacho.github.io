@@ -34,27 +34,19 @@ nav li a:hover{
     }
 }
 
-#inicio{
-    background: #6F04D9;
-    height: 800px;
+.container{   
+    margin-top: 10em;
 }
 
-#ajuda{
-    background: #8245BF;
-    height: 800px;
-}
-
-#servicos{
-    background: #6805F2;
-    height: 800px;
-}
-
-#portfolio{
-    background: #05F29B;
-    height: 800px;
-}
-
-#contato{
-    background: #F2CB05;
-    height: 800px;
-}
+.inicio h1{
+    font-family: "neosans regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 48px;
+    line-height: 1.2em;
+    letter-spacing: -0.07em;
+    font-weight: normal;
+ }
+ 
+ .inicio p{
+     font-size: 18px;
+     line-height: 1.4em;
+ }
