@@ -50,3 +50,10 @@ nav li a:hover{
      font-size: 18px;
      line-height: 1.4em;
  }
+
+#btn_mais{
+    color: rgb(113, 89, 193);
+    box-shadow: none;
+    border: solid 1px rgb(113, 89, 193);
+    border-radius: .5em;
+}

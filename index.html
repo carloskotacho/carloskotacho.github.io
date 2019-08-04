@@ -25,10 +25,11 @@
     <div class="navbar-fixed">
     <nav>
         <div class="nav-wrapper">
-          <a href="#!" class="brand-logo">Logo</a>
+          <a href="#!" class="brand-logo"><img src="assets/resources/img/logo.svg" width="80px" alt="Logo" /></a>
           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
           <ul class="right hide-on-med-and-down">
             <li><a href="#inicio">Início</a></li>
+            <li><a href="#sobre">Sobre</a></li>
             <li><a href="#ajuda">Ajuda</a></li>
             <li><a href="#servicos">Serviços</a></li>
             <li><a href="#portfolio">Portfólio</a></li>
@@ -36,6 +37,7 @@
           </ul>
           <ul class="side-nav" id="mobile-demo">
             <li><a href="#inicio">Início</a></li>
+            <li><a href="#sobre">Sobre</a></li>
             <li><a href="#ajuda">Ajuda</a></li>
             <li><a href="#servico">Serviços</a></li>
             <li><a href="#portfolio">Portfólio</a></li>
@@ -51,12 +53,27 @@
               <div id="inicio" class="section scrollspy inicio">
                   <h1>Lorem Ipsum</h1>
                   <p>Morbi ac pellentesque neque. Pellentesque et bibendum ex, sed laoreet eros.</p>
-                  <a class="waves-effect deep-purple btn">button</a> 
+                  <a id="btn_mais" class="waves-effect transparent btn">Sobre</a> 
               </div>
             </div>
 
             <div class="col s6 m9 l6">
                 <img class="" width="100%" src="assets/resources/img/fig1.svg">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col s12 m9 l10">
+                <div id="sobre" class="section scrollspy sobre">
+                    <p class="flow-text">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+                    Sed vel sem viverra, pharetra dui vitae, tempor ligula.
+                    In odio ipsum, auctor id mauris id, egestas lacinia ipsum.
+                    Donec sit amet dolor et nisl tincidunt luctus. Praesent eu aliquet elit, id porttitor velit. 
+                    Aenean augue lorem, luctus sit amet dolor a, euismod cursus orci. 
+                    Aliquam sit amet nulla gravida, dignissim diam in, feugiat enim.
+                    </p>
+                </div>
             </div>
         </div>
 
@@ -90,6 +107,12 @@
                     <!-- Content Contato -->
                 </div>
             </div>
+        </div>
+
+        <div class="fixed-action-btn horizontal click-to-toggle">
+            <a href="#inicio" class="btn-floating btn-large deep-purple">
+                <i class="material-icons">arrow_upward</i>
+            </a>
         </div>
     </div>
 </body>
