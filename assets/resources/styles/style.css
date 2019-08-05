@@ -57,3 +57,15 @@ nav li a:hover{
     border: solid 1px rgb(113, 89, 193);
     border-radius: .5em;
 }
+
+h4{
+    color: #92989b;
+}
+
+.card{
+    box-shadow: none;
+    background: transparent;
+    text-align: center;
+    width: 200px;
+}
+

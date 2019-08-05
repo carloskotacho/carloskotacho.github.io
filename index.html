@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="assets/lib/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/lib/materialize/css/materialize.css">
     <link rel="stylesheet" href="assets/resources/styles/style.css">
+    <link rel="stylesheet" href="assets/resources/styles/timeline.css">
 
     <script src="assets/lib/jquery/jquery-2.2.4.min.js"></script>
     <script src="assets/lib/materialize/js/materialize.js"></script>
@@ -30,7 +31,6 @@
           <ul class="right hide-on-med-and-down">
             <li><a href="#inicio">Início</a></li>
             <li><a href="#sobre">Sobre</a></li>
-            <li><a href="#ajuda">Ajuda</a></li>
             <li><a href="#servicos">Serviços</a></li>
             <li><a href="#portfolio">Portfólio</a></li>
             <li><a href="#contato">Contato</a></li>
@@ -38,7 +38,6 @@
           <ul class="side-nav" id="mobile-demo">
             <li><a href="#inicio">Início</a></li>
             <li><a href="#sobre">Sobre</a></li>
-            <li><a href="#ajuda">Ajuda</a></li>
             <li><a href="#servico">Serviços</a></li>
             <li><a href="#portfolio">Portfólio</a></li>
             <li><a href="#contato">Contato</a></li>
@@ -53,7 +52,7 @@
               <div id="inicio" class="section scrollspy inicio">
                   <h1>Lorem Ipsum</h1>
                   <p>Morbi ac pellentesque neque. Pellentesque et bibendum ex, sed laoreet eros.</p>
-                  <a id="btn_mais" class="waves-effect transparent btn">Sobre</a> 
+                  <a href="#sobre" id="btn_mais" class="waves-effect transparent btn">Sobre</a> 
               </div>
             </div>
 
@@ -65,6 +64,7 @@
         <div class="row">
             <div class="col s12 m12 l12">
                 <div id="sobre" class="section scrollspy sobre">
+                    <h4>Sobre</h4>
                     <p class="flow-text">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                     Sed vel sem viverra, pharetra dui vitae, tempor ligula.
@@ -77,31 +77,79 @@
             </div>
         </div>
 
-        <div class="row">
-            <div class="col s12 m12 l12">
-                <div id="ajuda" class="section scrollspy ajuda">
-                    <!-- Content Ajuda -->
+        <div id="servicos" class="row section scrollspy servicos">
+            <h4>Serviços</h4>
+            <div class="col s12 m12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="assets/resources/img/card_fig_1.svg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title">Card Title</span>
+                        <p>I am a very simple card.</p>
+                    </div>
+                </div>    
+            </div>
+
+            <div class="col s12 m12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="assets/resources/img/card_fig_2.svg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title">Card Title</span>
+                        <p>I am a very simple card.</p>
+                    </div>
+                </div>    
+            </div>
+            
+            <div class="col s12 m12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="assets/resources/img/card_fig_3.svg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title">Card Title</span>
+                        <p>I am a very simple card.</p>
+                    </div>
+                </div>    
+            </div>
+
+            <div class="col s12 m12 l3">
+                <div class="card">
+                    <div class="card-image">
+                        <img src="assets/resources/img/card_fig_4.svg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title">Card Title</span>
+                        <p>I am a very simple card.</p>
+                    </div>
+                </div>    
+            </div>
+        </div>
+
+        <div id="portfolio" class="row section scrollspy portfolio">
+            <h4>Portfólio</h4>
+            <div class="col s12 m12 l12">                         
+                <!-- Content Portfólio -->
+                <div class="card">
+                    <div class="card-image">
+                        <a href="#">
+                            <img src="assets/resources/img/portf_fig_1.svg">
+                        </a>
+                    </div>
+                    <div class="card-stacked">
+                        <div class="card-content">
+                            <div class="chip">Spring</div>
+                            <div class="chip">Angular</div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
 
         <div class="row">
-            <div class="col s12 m12 l12">
-                <div id="servicos" class="section scrollspy servicos">
-                    <!-- Content Serviços -->          
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col s12 m12 l12">
-                <div id="portfolio" class="section scrollspy portfolio">                         
-                    <!-- Content Portfólio -->
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
+            <h4>Contato</h4>
             <div class="col s12 m12 l12">
                 <div id="contato" class="section scrollspy contato">
                     <!-- Content Contato -->

@@ -3,4 +3,6 @@ $(document).ready(function(){
     $(".button-collapse").sideNav();
     // Init of Plugin jQuery
     $('.scrollspy').scrollSpy();
+    // Init of Chips
+    $('.chips').material_chip();
 });
