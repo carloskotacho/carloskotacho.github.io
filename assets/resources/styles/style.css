@@ -82,3 +82,9 @@ h4{
     width: 200px;
 }
 
+.promo i{
+    margin: 40px;
+    color: rgb(87, 184, 148);
+    font-size: 7rem;
+    display: block;
+}
