@@ -43,22 +43,53 @@ nav li a:hover{
     nav div a{
         padding: 10px 15px;
     }
+
+    .inicio{
+        margin-top: 10em;
+    }
+
+    .inicio h1{
+        font-size: 48px;
+    }
+
+    .inicio p{
+        font-size: 18px;
+    }
 }
 
-.container{   
-    margin-top: 10em;
+@media only screen and (max-width:1000px){
+    .inicio{
+        margin-top: 4em;
+    }
+
+    .text-inicio{
+        margin-bottom: 3em;
+        text-align: center;
+    }
+
+    .text-inicio h1{
+        font-size: 24px;
+    }
+
+    .inicio p{
+        font-size: 14px;
+    }
+
+    .inicio img{
+        margin-top: 2em;
+    }
 }
 
 .inicio h1{
     font-family: "neosans regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 48px;
+    
     line-height: 1.2em;
     letter-spacing: -0.07em;
     font-weight: normal;
  }
  
  .inicio p{
-     font-size: 18px;
+     
      line-height: 1.4em;
  }
 
@@ -80,11 +111,22 @@ h4{
     background: transparent;
     text-align: center;
     width: 200px;
+    margin: 0;
 }
 
 .promo i{
     margin: 40px;
     color: rgb(87, 184, 148);
     font-size: 7rem;
+    display: block;
+}
+
+.copy{
+    text-align: center;
+    font: 12px 'HelveticaNeue_Thin', Arial;
+    letter-spacing: 0.05em;
+    color: #999;
+    border-top: 1px solid #B9C0C4;
+    padding-top: 1.5em;
     display: block;
 }
