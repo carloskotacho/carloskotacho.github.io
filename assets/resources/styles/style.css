@@ -111,9 +111,12 @@ h4{
 .card-portfolio{
     box-shadow: none;
     background: transparent;
-    text-align: center;
     width: 200px;
     margin: 0;
+}
+
+.sobre h4, .servicos h4, .portfolio h4, .contato h4{
+    text-align: center;
 }
 
 .promo .material-icons{
@@ -208,4 +211,12 @@ h4{
 
 .not-found{
     text-align: center;
+}
+
+.card-content-more a{
+    color: rgb(87, 184, 148);
+}
+
+.card .card-content .card-title{
+    line-height: unset;
 }

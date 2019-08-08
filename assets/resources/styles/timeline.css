@@ -7,6 +7,20 @@
     color: #92989b;
 }
 
+@media only screen and (max-width: 1000px){
+    .container ul{
+        padding: 1px 50px
+    }
+
+    .container .card-title{
+        font-size: 17px;
+    }
+
+    .container .card-content-more p{
+        font-size: 14px;
+    }
+}
+
 .container ul:before{
     content: "";
     width: 1px;
