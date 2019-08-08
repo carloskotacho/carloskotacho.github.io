@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="bc1f3139-0466-4655-9cee-0348334ffa8f"
+   data-name="Layer 1"
+   width="977.47786"
+   height="801.93613"
+   viewBox="0 0 977.47786 801.93613"
+   version="1.1"
+   sodipodi:docname="fig1_sidenav.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata168">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>download</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview166"
+     showgrid="false"
+     inkscape:zoom="0.58722559"
+     inkscape:cx="54.042984"
+     inkscape:cy="547.9462"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="bc1f3139-0466-4655-9cee-0348334ffa8f" />
+  <defs
+     id="defs9">
+    <linearGradient
+       id="a7d70b19-b507-4394-a133-55f51a2376ed"
+       x1="323.00662"
+       y1="814.32902"
+       x2="323.00662"
+       y2="813.88035"
+       gradientTransform="matrix(-1, 0, 0, 1, 651, 0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="gray"
+         stop-opacity="0.25"
+         id="stop2" />
+      <stop
+         offset="0.53514"
+         stop-color="gray"
+         stop-opacity="0.12"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="gray"
+         stop-opacity="0.1"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title11">download</title>
+  <path
+     d="M906.66523,217.77107a38.95007,38.95007,0,0,1,38.89611-36.91443c1.18377,0,2.35271.06174,3.50958.16513a51.74974,51.74974,0,0,1,89.45652-.04229c.976-.07331,1.95855-.12284,2.95327-.12284a38.95007,38.95007,0,0,1,38.89611,36.91443"
+     transform="translate(-111.51074 -48.78194)"
+     fill="#f2f2f2"
+     id="path43"
+     inkscape:export-xdpi="137"
+     inkscape:export-ydpi="137" />
+  <path
+     d="M914.77767,214.77486a38.95008,38.95008,0,0,1,38.89611-36.91442c1.18377,0,2.35271.06173,3.50959.16513a51.74974,51.74974,0,0,1,89.45651-.0423c.976-.0733,1.95855-.12283,2.95328-.12283a38.95007,38.95007,0,0,1,38.8961,36.91442"
+     transform="translate(-111.51074 -48.78194)"
+     fill="none"
+     stroke="#3f3d56"
+     stroke-miterlimit="10"
+     id="path45"
+     inkscape:export-xdpi="137"
+     inkscape:export-ydpi="137" />
+  <path
+     d="M802.66523,438.77107a38.95007,38.95007,0,0,1,38.89611-36.91443c1.18377,0,2.35271.06174,3.50958.16513a51.74974,51.74974,0,0,1,89.45652-.04229c.976-.07331,1.95855-.12284,2.95327-.12284a38.95007,38.95007,0,0,1,38.89611,36.91443"
+     transform="translate(-111.51074 -48.78194)"
+     fill="#f2f2f2"
+     id="path47"
+     inkscape:export-xdpi="137"
+     inkscape:export-ydpi="137" />
+  <path
+     d="M810.77767,435.77486a38.95008,38.95008,0,0,1,38.89611-36.91442c1.18377,0,2.35271.06173,3.50959.16513a51.74974,51.74974,0,0,1,89.45651-.0423c.976-.0733,1.95855-.12283,2.95328-.12283a38.95007,38.95007,0,0,1,38.8961,36.91442"
+     transform="translate(-111.51074 -48.78194)"
+     fill="none"
+     stroke="#3f3d56"
+     stroke-miterlimit="10"
+     id="path49"
+     inkscape:export-xdpi="137"
+     inkscape:export-ydpi="137" />
+</svg>
