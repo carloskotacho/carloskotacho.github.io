@@ -111,6 +111,7 @@ h4{
     background: transparent;
     width: 200px;
     margin: 0;
+    text-align: center;
 }
 
 .sobre h4, .servicos h4, .portfolio h4, .contato h4{
@@ -218,3 +219,4 @@ h4{
 .card .card-content .card-title{
     line-height: unset;
 }
+
