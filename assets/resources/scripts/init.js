@@ -5,4 +5,6 @@ $(document).ready(function(){
     $('.scrollspy').scrollSpy();
     // Init of Chips
     $('.chips').material_chip();
+    // Init of Carousel
+    $('.carousel').carousel();
 });
